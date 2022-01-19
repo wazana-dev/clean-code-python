@@ -1,22 +1,40 @@
 # Clean Code Python
 
+<p align="center">
+  <a href="https://wazana.dev">
+    <img src="https://www.datocms-assets.com/41512/1642548236-logo.png" height="128">
+    <h1 align="center">wazana.dev</h1>
+  </a>
+</p>
+
+<p align="center">
+  <a aria-label="Linkedin wazana.dev" href="https://www.linkedin.com/company/wazana-dev/">
+    <img src="https://img.shields.io/badge/wazana--dev-333.svg?style=for-the-badge&logo=linkedin&labelColor=0A66C2">
+  </a>
+  
+  <a aria-label="Instagram wazana.dev" href="https://www.instagram.com/wazana.dev/">
+    <img src="https://img.shields.io/badge/@wazana%2Edev-333.svg?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F">
+  </a>
+  
+  <a aria-label="YouTube wazana.dev" href="https://www.youtube.com/channel/UCVE9-HO_GzLtDK4IGKVSYXA">
+    <img src="https://img.shields.io/badge/Wazana-333.svg?style=for-the-badge&logo=youtube&logoColor=white&labelColor=FF0000">
+  </a>
+  
+  <a aria-label="Discord wazana.dev" href="https://discord.gg/MF6F4t8eQw">
+    <img src="https://img.shields.io/badge/wazana%2Edev-333.svg?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2">
+  </a>
+</p>
+
+**Playlist:** [Programando em Python no VS Code](https://www.wazana.dev/playlist/programando-em-python-no-vs-code).
+
+## Introdução
+
 Neste tutorial vamos utilizar alguns conceitos de Clean Code (código limpo) na nossa aplicação Python.
 
 O termo Clean Code se refere a um conjunto de boas práticas na escrita de software que você pode aplicar para obter uma maior legibilidade e fácil manutenção do seu código.
 
-**Agenda**
-
-- Instalação das extensões e pacotes.
-- Configuração no VS Code (`settings.json`).
-- Aplicar os conceitos de Clean Code.
-
-**Playlist:** [Programando em Python no VS Code](https://www.wazana.dev/playlist/programando-em-python-no-vs-code).
-
-**Episódio:** [Clean Code Python](https://www.wazana.dev/player/clean-code-python/programando-em-python-no-vs-code).
-
-## Introdução
-
-Essas instruções fornecerão uma cópia do projeto para executar em sua máquina para desenvolvimento e teste.
+### Nível
+- [x] - Básico
 
 ### Pré-requisitos
 
@@ -27,15 +45,6 @@ O que você precisa para completar o tutorial:
 - Pacote [Black](https://github.com/psf/black).
 - Pacote [Pylint](https://pypi.org/project/pylint/).
 
-## Instalação de extensões
-
-1. Instale a extensão [Python Indent](https://marketplace.visualstudio.com/items?itemName=KevinRose.vsc-python-indent).
-
-2. Instale a extensão [indent-rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow).
-
-3. Instale a extensão [Python Docstring Generator](https://marketplace.visualstudio.com/items?itemName=njpwerner.autodocstring).
-
-4. Instale a extensão [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2).
 
 ## Instalação de pacotes
 
@@ -78,10 +87,6 @@ Abra o arquivo `settings.json` no VS Code e adicione as seguintes propriedades:
 
 [![Linkedin: arthur-viana](https://img.shields.io/badge/-Arthur%20Viana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthur-viana/)](https://www.linkedin.com/in/arthur-viana/)
 [![GitHub Arthur](https://img.shields.io/github/followers/VianaArthur?label=follow&style=social)](https://github.com/VianaArthur)
-
-## Licença
-
-Projeto licenciado pela [GNU General Public License](https://opensource.org/licenses/GPL-3.0).
 
 ## Agradecimentos
 
